@@ -13,6 +13,7 @@ Ingredients:
 1 tsp baking powder 
 1/2 tsp salt  
 
+<<<<<<< Updated upstream
 
 I think it should have 1.5 cups of dark chocolate.
 =======
